@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kyozymbon.github.io/sitemap.html.gz
+Sitemap: https://kyozymbon.github.io/app/sitemap.html.gz
+Sitemap: https://kyozymbon.github.io/assets/sitemap.html.gz
+Sitemap: https://kyozymbon.github.io/css/sitemap.html.gz
+Sitemap: https://kyozymbon.github.io/includes/sitemap.html.gz
+Sitemap: https://kyozymbon.github.io/item/sitemap.html.gz
+Sitemap: https://kyozymbon.github.io/src/sitemap.html.gz
